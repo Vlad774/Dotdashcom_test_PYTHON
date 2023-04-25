@@ -1,0 +1,95 @@
+2023-04-20 17:30:01,278 :INFO : tests.test_dropdown :Dropdown test completed successfully
+2023-04-20 19:31:10,686 :INFO : tests.test_dropdown :Test passed
+2023-04-20 19:31:17,030 :INFO : tests.test_dropdown :Dropdown Setup Successful
+2023-04-20 19:31:20,641 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-20 19:32:25,028 :INFO : tests.test_dropdown :Test passed
+2023-04-20 19:32:35,224 :ERROR : tests.test_dropdown :Dropdown Setup Failed
+2023-04-20 19:36:44,172 :INFO : tests.test_dropdown :Test passed
+2023-04-20 19:36:50,365 :INFO : tests.test_dropdown :Dropdown Setup Successful
+2023-04-20 19:37:01,901 :INFO : tests.test_dropdown :Test passed
+2023-04-20 19:37:08,016 :INFO : tests.test_dropdown :Dropdown Setup Successful
+2023-04-20 19:37:11,638 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-20 19:39:39,566 :INFO : tests.test_dropdown :Test passed
+2023-04-20 19:41:56,410 :INFO : tests.test_dropdown :Test passed
+2023-04-20 19:42:06,328 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-21 01:27:15,903 :INFO : tests.test_dropdown :Test passed
+2023-04-21 01:28:40,103 :ERROR : tests.test_dropdown :Dropdown Test Failed
+2023-04-21 01:31:37,045 :INFO : tests.test_dropdown :Test passed
+2023-04-21 01:32:09,005 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-21 11:08:25,499 :INFO : tests.test_dropdown :Test passed
+2023-04-21 11:09:48,162 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-22 22:03:12,110 :INFO : tests.test_dropdown :Test passed
+2023-04-22 22:03:23,005 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-22 22:18:40,446 :INFO : tests.test_dropdown :Test passed
+2023-04-22 22:18:51,456 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-22 22:24:54,351 :INFO : tests.test_dropdown :Test passed
+2023-04-22 22:25:05,288 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-23 18:04:22,663 :INFO : tests.test_dropdown :Test passed
+2023-04-23 18:04:32,443 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-23 18:44:00,162 :INFO : tests.test_dropdown :Test passed
+2023-04-23 18:45:00,303 :INFO : tests.test_dropdown :Test passed
+2023-04-23 18:45:43,806 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-23 19:29:11,675 :INFO : tests.test_dropdown :Test passed
+2023-04-23 19:30:56,744 :INFO : tests.test_dropdown :Test passed
+2023-04-23 19:34:13,498 :INFO : tests.test_dropdown :Test passed
+2023-04-23 19:50:51,107 :INFO : tests.test_dropdown :Test passed
+2023-04-23 19:52:03,634 :INFO : tests.test_dropdown :Test passed
+2023-04-23 19:52:42,916 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-23 20:39:23,502 :INFO : tests.test_dropdown :Test passed
+2023-04-23 20:40:05,255 :INFO : tests.test_dropdown :Test passed
+2023-04-23 20:47:40,308 :INFO : tests.test_dropdown :Test passed
+2023-04-23 20:48:58,733 :INFO : tests.test_dropdown :Test passed
+2023-04-23 20:50:01,922 :INFO : tests.test_dropdown :Test passed
+2023-04-23 20:52:38,032 :INFO : tests.test_dropdown :Test passed
+2023-04-23 20:54:57,940 :INFO : tests.test_dropdown :Test passed
+2023-04-23 20:55:37,745 :INFO : tests.test_dropdown :Test passed
+2023-04-23 20:56:51,068 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 11:25:09,270 :INFO : tests.test_dropdown :Test passed
+2023-04-24 11:34:07,562 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 15:56:10,206 :INFO : tests.test_dropdown :Test passed
+2023-04-24 15:57:07,969 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 16:03:33,182 :INFO : tests.test_dropdown :Test passed
+2023-04-24 16:04:17,535 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 16:08:40,792 :INFO : tests.test_dropdown :Test passed
+2023-04-24 16:08:49,776 :INFO : tests.test_dropdown :Test passed
+2023-04-24 16:09:10,194 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 16:12:39,822 :INFO : tests.test_dropdown :Test passed
+2023-04-24 16:13:03,407 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 16:41:07,970 :INFO : tests.test_dropdown :Test passed
+2023-04-24 16:41:28,265 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 16:44:27,848 :INFO : tests.test_dropdown :Test passed
+2023-04-24 16:44:46,572 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 16:53:36,163 :INFO : tests.test_dropdown :Test passed
+2023-04-24 16:53:58,822 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 16:57:12,205 :INFO : tests.test_dropdown :Test passed
+2023-04-24 16:58:13,483 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 17:07:09,774 :INFO : tests.test_dropdown :Test passed
+2023-04-24 17:07:29,043 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 17:14:39,170 :INFO : tests.test_dropdown :Test passed
+2023-04-24 17:15:45,794 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 17:18:54,956 :INFO : tests.test_dropdown :Test passed
+2023-04-24 17:19:18,807 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 17:22:15,814 :INFO : tests.test_dropdown :Test passed
+2023-04-24 17:23:16,084 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 17:27:32,537 :INFO : tests.test_dropdown :Test passed
+2023-04-24 17:27:58,232 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 17:33:27,648 :INFO : tests.test_dropdown :Test passed
+2023-04-24 17:35:08,633 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 17:40:41,449 :INFO : tests.test_dropdown :Test passed
+2023-04-24 17:42:32,874 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 17:45:48,007 :INFO : tests.test_dropdown :Test passed
+2023-04-24 17:46:16,849 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 17:52:00,803 :INFO : tests.test_dropdown :Test passed
+2023-04-24 17:53:35,958 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 18:02:21,229 :INFO : tests.test_dropdown :Test passed
+2023-04-24 18:03:06,792 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 18:07:34,557 :INFO : tests.test_dropdown :Test passed
+2023-04-24 18:08:14,020 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 21:08:29,786 :INFO : tests.test_dropdown :Test passed
+2023-04-24 21:09:04,174 :INFO : tests.test_dropdown :Test passed
+2023-04-24 21:09:45,955 :INFO : tests.test_dropdown :Test passed
+2023-04-24 21:10:16,076 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 21:17:25,294 :INFO : tests.test_dropdown :Test passed
+2023-04-24 21:17:56,292 :INFO : tests.test_dropdown :Dropdown Test Passed
+2023-04-24 21:24:47,788 :INFO : tests.test_dropdown :Test passed
+2023-04-24 21:25:24,698 :INFO : tests.test_dropdown :Dropdown Test Passed

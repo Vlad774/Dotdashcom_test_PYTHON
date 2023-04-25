@@ -1,0 +1,89 @@
+2023-04-20 18:01:49,250 :INFO : tests.test_notification_message :Logger initialized
+2023-04-20 18:01:49,250 :WARNING : tests.test_notification_message :Something is warning
+2023-04-20 18:01:49,251 :ERROR : tests.test_notification_message :Error happened
+2023-04-20 18:01:49,251 :CRITICAL : tests.test_notification_message :Critical happened
+2023-04-20 22:33:54,682 :INFO : tests.test_notification_message :Test passed
+2023-04-20 22:34:02,348 :ERROR : tests.test_notification_message :TestNotificationMessage Failed: Unexpected notification message displayed
+2023-04-20 22:36:24,619 :INFO : tests.test_notification_message :Test passed
+2023-04-20 22:36:32,100 :ERROR : tests.test_notification_message :TestNotificationMessage Failed: Unexpected notification message displayed
+2023-04-20 22:37:18,065 :INFO : tests.test_notification_message :Test passed
+2023-04-20 22:37:27,589 :ERROR : tests.test_notification_message :TestNotificationMessage Failed: Unexpected notification message displayed
+2023-04-20 22:39:22,119 :INFO : tests.test_notification_message :Test passed
+2023-04-20 22:39:30,349 :ERROR : tests.test_notification_message :TestNotificationMessage Failed: Unexpected notification message displayed
+2023-04-20 22:41:37,804 :INFO : tests.test_notification_message :Test passed
+2023-04-20 22:41:45,924 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-20 22:42:49,291 :INFO : tests.test_notification_message :Test passed
+2023-04-20 22:42:57,591 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-20 22:58:28,398 :INFO : tests.test_notification_message :Test passed
+2023-04-20 22:58:40,286 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-21 01:27:16,196 :INFO : tests.test_notification_message :Test passed
+2023-04-21 01:31:37,093 :INFO : tests.test_notification_message :Test passed
+2023-04-21 01:35:06,552 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-21 11:08:25,620 :INFO : tests.test_notification_message :Test passed
+2023-04-21 11:15:35,760 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-23 18:44:00,279 :INFO : tests.test_notification_message :Test passed
+2023-04-23 18:45:00,330 :INFO : tests.test_notification_message :Test passed
+2023-04-23 18:49:57,401 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-23 19:29:11,703 :INFO : tests.test_notification_message :Test passed
+2023-04-23 19:30:56,772 :INFO : tests.test_notification_message :Test passed
+2023-04-23 19:34:13,525 :INFO : tests.test_notification_message :Test passed
+2023-04-23 19:50:51,135 :INFO : tests.test_notification_message :Test passed
+2023-04-23 19:52:03,662 :INFO : tests.test_notification_message :Test passed
+2023-04-23 20:39:23,530 :INFO : tests.test_notification_message :Test passed
+2023-04-23 20:40:05,284 :INFO : tests.test_notification_message :Test passed
+2023-04-23 20:47:40,335 :INFO : tests.test_notification_message :Test passed
+2023-04-23 20:48:58,761 :INFO : tests.test_notification_message :Test passed
+2023-04-23 20:50:01,950 :INFO : tests.test_notification_message :Test passed
+2023-04-23 20:52:38,060 :INFO : tests.test_notification_message :Test passed
+2023-04-23 20:54:57,968 :INFO : tests.test_notification_message :Test passed
+2023-04-23 20:55:37,773 :INFO : tests.test_notification_message :Test passed
+2023-04-23 20:58:44,665 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 11:25:09,459 :INFO : tests.test_notification_message :Test passed
+2023-04-24 11:36:34,096 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 15:56:10,269 :INFO : tests.test_notification_message :Test passed
+2023-04-24 16:01:20,685 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 16:03:33,241 :INFO : tests.test_notification_message :Test passed
+2023-04-24 16:07:27,821 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 16:08:40,860 :INFO : tests.test_notification_message :Test passed
+2023-04-24 16:08:49,836 :INFO : tests.test_notification_message :Test passed
+2023-04-24 16:11:23,355 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 16:12:39,891 :INFO : tests.test_notification_message :Test passed
+2023-04-24 16:15:23,077 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 16:41:08,041 :INFO : tests.test_notification_message :Test passed
+2023-04-24 16:43:37,904 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 16:44:27,921 :INFO : tests.test_notification_message :Test passed
+2023-04-24 16:46:55,507 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 16:53:36,243 :INFO : tests.test_notification_message :Test passed
+2023-04-24 16:56:22,551 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 16:57:12,295 :INFO : tests.test_notification_message :Test passed
+2023-04-24 17:02:38,477 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 17:07:09,872 :INFO : tests.test_notification_message :Test passed
+2023-04-24 17:09:48,709 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 17:14:39,243 :INFO : tests.test_notification_message :Test passed
+2023-04-24 17:17:59,489 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 17:18:55,051 :INFO : tests.test_notification_message :Test passed
+2023-04-24 17:21:33,709 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 17:22:15,881 :INFO : tests.test_notification_message :Test passed
+2023-04-24 17:25:47,926 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 17:27:32,613 :INFO : tests.test_notification_message :Test passed
+2023-04-24 17:30:22,359 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 17:33:27,755 :INFO : tests.test_notification_message :Test passed
+2023-04-24 17:37:29,155 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 17:40:41,558 :INFO : tests.test_notification_message :Test passed
+2023-04-24 17:44:53,651 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 17:45:48,138 :INFO : tests.test_notification_message :Test passed
+2023-04-24 17:48:40,353 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 17:52:00,905 :INFO : tests.test_notification_message :Test passed
+2023-04-24 17:56:15,254 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 18:02:21,337 :INFO : tests.test_notification_message :Test passed
+2023-04-24 18:05:34,378 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 18:07:34,683 :INFO : tests.test_notification_message :Test passed
+2023-04-24 18:10:53,118 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 21:08:29,897 :INFO : tests.test_notification_message :Test passed
+2023-04-24 21:09:04,253 :INFO : tests.test_notification_message :Test passed
+2023-04-24 21:09:46,100 :INFO : tests.test_notification_message :Test passed
+2023-04-24 21:12:47,383 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 21:17:25,415 :INFO : tests.test_notification_message :Test passed
+2023-04-24 21:20:25,267 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed
+2023-04-24 21:24:47,926 :INFO : tests.test_notification_message :Test passed
+2023-04-24 21:27:54,329 :WARNING : tests.test_notification_message :TestNotificationMessage Passed with Warning: Action unsuccessful message displayed

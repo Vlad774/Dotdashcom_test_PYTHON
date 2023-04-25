@@ -1,0 +1,132 @@
+2023-04-20 18:04:23,306 :INFO : tests.tets_file_upload :Logger initialized
+2023-04-20 18:04:23,306 :WARNING : tests.tets_file_upload :Something is warning
+2023-04-20 18:04:23,306 :ERROR : tests.tets_file_upload :Error happened
+2023-04-20 18:04:23,307 :CRITICAL : tests.tets_file_upload :Critical happened
+2023-04-20 18:21:09,479 :INFO : tests.tets_file_upload :Logger initialized
+2023-04-20 18:21:09,479 :WARNING : tests.tets_file_upload :Something is warning
+2023-04-20 18:21:09,479 :ERROR : tests.tets_file_upload :Error happened
+2023-04-20 18:21:09,480 :CRITICAL : tests.tets_file_upload :Critical happened
+2023-04-20 18:22:39,338 :INFO : tests.tets_file_upload :Logger initialized
+2023-04-20 18:22:39,338 :WARNING : tests.tets_file_upload :Something is warning
+2023-04-20 18:22:39,338 :ERROR : tests.tets_file_upload :Error happened
+2023-04-20 18:22:39,338 :CRITICAL : tests.tets_file_upload :Critical happened
+2023-04-20 18:22:46,603 :INFO : tests.tets_file_upload :File Upload Success
+2023-04-20 18:23:48,527 :INFO : tests.tets_file_upload :Logger initialized
+2023-04-20 18:23:48,527 :WARNING : tests.tets_file_upload :Something is warning
+2023-04-20 18:23:48,528 :ERROR : tests.tets_file_upload :Error happened
+2023-04-20 18:23:48,528 :CRITICAL : tests.tets_file_upload :Critical happened
+2023-04-20 18:24:39,120 :INFO : tests.tets_file_upload :Logger initialized
+2023-04-20 18:24:39,120 :WARNING : tests.tets_file_upload :Something is warning
+2023-04-20 18:24:39,120 :ERROR : tests.tets_file_upload :Error happened
+2023-04-20 18:24:39,120 :CRITICAL : tests.tets_file_upload :Critical happened
+2023-04-20 18:28:54,004 :INFO : tests.tets_file_upload :Logger initialized
+2023-04-20 18:28:54,004 :WARNING : tests.tets_file_upload :Something is warning
+2023-04-20 18:28:54,005 :ERROR : tests.tets_file_upload :Error happened
+2023-04-20 18:28:54,005 :CRITICAL : tests.tets_file_upload :Critical happened
+2023-04-20 18:29:00,874 :INFO : tests.tets_file_upload :File upload test passed
+2023-04-20 18:31:10,018 :INFO : tests.tets_file_upload :Test Passed
+2023-04-20 18:31:10,018 :ERROR : tests.tets_file_upload :Test Failed
+2023-04-20 18:31:16,561 :INFO : tests.tets_file_upload :File upload test passed
+2023-04-20 18:32:37,360 :INFO : tests.tets_file_upload :Test Passed
+2023-04-20 18:32:37,361 :ERROR : tests.tets_file_upload :Test Failed
+2023-04-20 18:34:11,570 :INFO : tests.tets_file_upload :Test Passed
+2023-04-20 18:34:11,570 :ERROR : tests.tets_file_upload :Test Failed
+2023-04-20 18:34:18,172 :INFO : tests.tets_file_upload :File Upload Passed
+2023-04-20 18:37:39,243 :INFO : tests.tets_file_upload :
+2023-04-20 18:37:39,244 :ERROR : tests.tets_file_upload :
+2023-04-20 18:37:45,736 :INFO : tests.tets_file_upload :File Upload Passed
+2023-04-20 18:38:37,857 :INFO : tests.tets_file_upload :File Upload Passed
+2023-04-20 18:42:00,348 :INFO : tests.tets_file_upload :Info
+2023-04-20 18:42:00,348 :ERROR : tests.tets_file_upload :Failed
+2023-04-20 18:42:06,936 :INFO : tests.tets_file_upload :File Upload Passed
+2023-04-20 18:49:06,883 :INFO : tests.tets_file_upload :Test passed
+2023-04-20 18:49:13,732 :INFO : tests.tets_file_upload :File Upload Passed
+2023-04-20 18:50:36,782 :INFO : tests.tets_file_upload :Test passed
+2023-04-20 18:51:33,709 :INFO : tests.tets_file_upload :Test passed
+2023-04-20 18:51:44,294 :ERROR : tests.tets_file_upload :File Upload Failed
+2023-04-20 18:52:33,650 :INFO : tests.tets_file_upload :Test passed
+2023-04-20 18:52:40,079 :INFO : tests.tets_file_upload :File Upload Passed
+2023-04-20 18:54:32,917 :INFO : tests.tets_file_upload :Test passed
+2023-04-20 18:54:39,430 :INFO : tests.tets_file_upload :File Upload Passed
+2023-04-20 18:55:17,567 :INFO : tests.tets_file_upload :Test passed
+2023-04-20 18:55:28,125 :ERROR : tests.tets_file_upload :File Upload Failed
+2023-04-20 18:57:45,860 :INFO : tests.test_file_upload :Test passed
+2023-04-20 18:57:56,812 :ERROR : tests.test_file_upload :File Upload Failed
+2023-04-20 19:00:16,719 :INFO : tests.test_file_upload :Test passed
+2023-04-20 19:00:23,290 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-20 19:01:22,083 :INFO : tests.test_file_upload :Test passed
+2023-04-20 19:01:32,697 :ERROR : tests.test_file_upload :File Upload Failed
+2023-04-20 19:05:41,375 :INFO : tests.test_file_upload :Test passed
+2023-04-20 19:05:47,860 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-21 01:27:15,981 :INFO : tests.test_file_upload :Test passed
+2023-04-21 01:31:37,066 :INFO : tests.test_file_upload :Test passed
+2023-04-21 01:33:28,233 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-21 11:08:25,553 :INFO : tests.test_file_upload :Test passed
+2023-04-21 11:12:29,632 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-23 18:44:00,191 :INFO : tests.test_file_upload :Test passed
+2023-04-23 18:45:00,313 :INFO : tests.test_file_upload :Test passed
+2023-04-23 18:47:35,282 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-23 19:29:11,686 :INFO : tests.test_file_upload :Test passed
+2023-04-23 19:30:56,755 :INFO : tests.test_file_upload :Test passed
+2023-04-23 19:34:13,509 :INFO : tests.test_file_upload :Test passed
+2023-04-23 19:50:51,118 :INFO : tests.test_file_upload :Test passed
+2023-04-23 19:52:03,645 :INFO : tests.test_file_upload :Test passed
+2023-04-23 19:53:57,857 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-23 20:39:23,513 :INFO : tests.test_file_upload :Test passed
+2023-04-23 20:40:05,266 :INFO : tests.test_file_upload :Test passed
+2023-04-23 20:47:40,319 :INFO : tests.test_file_upload :Test passed
+2023-04-23 20:48:58,744 :INFO : tests.test_file_upload :Test passed
+2023-04-23 20:50:01,933 :INFO : tests.test_file_upload :Test passed
+2023-04-23 20:52:38,043 :INFO : tests.test_file_upload :Test passed
+2023-04-23 20:54:57,951 :INFO : tests.test_file_upload :Test passed
+2023-04-23 20:55:37,756 :INFO : tests.test_file_upload :Test passed
+2023-04-23 20:57:43,742 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 11:25:09,315 :INFO : tests.test_file_upload :Test passed
+2023-04-24 11:35:18,971 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 15:56:10,231 :INFO : tests.test_file_upload :Test passed
+2023-04-24 15:58:51,387 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 16:03:33,206 :INFO : tests.test_file_upload :Test passed
+2023-04-24 16:05:34,152 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 16:08:40,818 :INFO : tests.test_file_upload :Test passed
+2023-04-24 16:08:49,800 :INFO : tests.test_file_upload :Test passed
+2023-04-24 16:10:12,882 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 16:12:39,846 :INFO : tests.test_file_upload :Test passed
+2023-04-24 16:14:05,150 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 16:41:07,998 :INFO : tests.test_file_upload :Test passed
+2023-04-24 16:42:30,605 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 16:44:27,879 :INFO : tests.test_file_upload :Test passed
+2023-04-24 16:45:44,656 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 16:53:36,196 :INFO : tests.test_file_upload :Test passed
+2023-04-24 16:55:09,031 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 16:57:12,240 :INFO : tests.test_file_upload :Test passed
+2023-04-24 16:59:57,309 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 17:07:09,807 :INFO : tests.test_file_upload :Test passed
+2023-04-24 17:08:32,387 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 17:14:39,198 :INFO : tests.test_file_upload :Test passed
+2023-04-24 17:16:45,736 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 17:18:54,997 :INFO : tests.test_file_upload :Test passed
+2023-04-24 17:20:19,128 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 17:22:15,841 :INFO : tests.test_file_upload :Test passed
+2023-04-24 17:24:18,740 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 17:27:32,567 :INFO : tests.test_file_upload :Test passed
+2023-04-24 17:29:02,168 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 17:33:27,695 :INFO : tests.test_file_upload :Test passed
+2023-04-24 17:36:09,933 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 17:40:41,493 :INFO : tests.test_file_upload :Test passed
+2023-04-24 17:43:34,737 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 17:45:48,060 :INFO : tests.test_file_upload :Test passed
+2023-04-24 17:47:22,212 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 17:52:00,844 :INFO : tests.test_file_upload :Test passed
+2023-04-24 17:54:57,115 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 18:02:21,274 :INFO : tests.test_file_upload :Test passed
+2023-04-24 18:04:10,224 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 18:07:34,608 :INFO : tests.test_file_upload :Test passed
+2023-04-24 18:09:16,690 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 21:08:29,832 :INFO : tests.test_file_upload :Test passed
+2023-04-24 21:09:04,207 :INFO : tests.test_file_upload :Test passed
+2023-04-24 21:09:46,008 :INFO : tests.test_file_upload :Test passed
+2023-04-24 21:11:21,398 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 21:17:25,347 :INFO : tests.test_file_upload :Test passed
+2023-04-24 21:19:00,529 :INFO : tests.test_file_upload :File Upload Passed
+2023-04-24 21:24:47,851 :INFO : tests.test_file_upload :Test passed
+2023-04-24 21:26:29,476 :INFO : tests.test_file_upload :File Upload Passed

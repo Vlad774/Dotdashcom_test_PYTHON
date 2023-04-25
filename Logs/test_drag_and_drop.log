@@ -1,0 +1,89 @@
+2023-04-20 17:28:36,289 :INFO : tests.test_drag_and_drop :Drag and drop completed successfully
+2023-04-20 19:26:47,291 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-20 19:26:54,192 :ERROR : tests.test_drag_and_drop :Drag and Drop Test Failed
+2023-04-20 19:27:35,215 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-20 19:27:41,869 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-21 01:27:15,881 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-21 01:28:23,505 :ERROR : tests.test_drag_and_drop :Drag and Drop Test Failed
+2023-04-21 01:31:37,038 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-21 01:31:57,931 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-21 11:08:25,484 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-21 11:09:29,836 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-22 21:52:05,395 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-22 21:52:12,437 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-22 21:53:39,409 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-22 21:53:59,436 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-22 21:54:05,881 :ERROR : tests.test_drag_and_drop :Drag and Drop Test Failed
+2023-04-22 21:54:42,934 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-22 21:54:50,560 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-22 22:42:30,437 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-22 22:42:37,468 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-23 18:01:04,459 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 18:01:10,056 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-23 18:44:00,146 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 18:45:00,299 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 18:45:32,454 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-23 19:29:11,671 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 19:30:56,740 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 19:34:13,495 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 19:50:51,104 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 19:52:03,631 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 19:52:29,241 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-23 20:39:23,499 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 20:40:05,252 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 20:47:40,304 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 20:48:58,729 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 20:50:01,918 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 20:52:38,029 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 20:54:57,937 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 20:55:37,742 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-23 20:56:44,434 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 11:25:09,250 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 11:33:58,762 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 15:56:10,197 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 15:56:50,691 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 16:03:33,173 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 16:04:05,944 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 16:08:40,784 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 16:08:49,769 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 16:09:02,436 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 16:12:39,813 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 16:12:54,746 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 16:41:07,961 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 16:41:20,797 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 16:44:27,839 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 16:44:39,200 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 16:53:36,153 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 16:53:50,469 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 16:57:12,194 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 16:57:56,152 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 17:07:09,765 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 17:07:21,566 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 17:14:39,160 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 17:15:37,766 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 17:18:54,942 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 17:19:10,404 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 17:22:15,805 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 17:23:08,024 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 17:27:32,528 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 17:27:49,953 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 17:33:27,627 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 17:34:59,286 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 17:40:41,439 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 17:42:23,873 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 17:45:47,992 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 17:46:08,109 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 17:52:00,791 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 17:53:25,586 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 18:02:21,219 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 18:02:57,532 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 18:07:34,541 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 18:08:04,645 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 21:08:29,769 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 21:09:04,164 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 21:09:45,939 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 21:10:07,231 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 21:17:25,277 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 21:17:47,545 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed
+2023-04-24 21:24:47,772 :INFO : tests.test_drag_and_drop :Test passed
+2023-04-24 21:25:14,510 :INFO : tests.test_drag_and_drop :Drag and Drop Test Passed

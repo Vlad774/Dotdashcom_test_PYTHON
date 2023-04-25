@@ -1,0 +1,156 @@
+2023-04-22 21:21:23,775 :INFO : tests.test_checkbox :Test passed
+2023-04-22 21:21:29,828 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-22 21:21:30,124 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-22 21:50:21,441 :INFO : tests.test_checkbox :Test passed
+2023-04-22 22:40:39,189 :INFO : tests.test_checkbox :Test passed
+2023-04-22 22:40:46,058 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-22 22:40:46,365 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-23 17:57:36,884 :INFO : tests.test_checkbox :Test passed
+2023-04-23 18:00:10,620 :INFO : tests.test_checkbox :Test passed
+2023-04-23 18:00:15,890 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-23 18:00:16,163 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-23 18:44:00,130 :INFO : tests.test_checkbox :Test passed
+2023-04-23 18:45:00,294 :INFO : tests.test_checkbox :Test passed
+2023-04-23 18:45:05,187 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-23 18:45:05,474 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-23 18:45:13,871 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-23 18:45:14,121 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-23 19:29:11,665 :INFO : tests.test_checkbox :Test passed
+2023-04-23 19:30:56,733 :INFO : tests.test_checkbox :Test passed
+2023-04-23 19:34:13,489 :INFO : tests.test_checkbox :Test passed
+2023-04-23 19:50:51,098 :INFO : tests.test_checkbox :Test passed
+2023-04-23 19:52:03,625 :INFO : tests.test_checkbox :Test passed
+2023-04-23 19:52:08,452 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-23 19:52:08,715 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-23 19:52:15,182 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-23 19:52:15,440 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-23 20:39:23,492 :INFO : tests.test_checkbox :Test passed
+2023-04-23 20:40:05,246 :INFO : tests.test_checkbox :Test passed
+2023-04-23 20:47:40,299 :INFO : tests.test_checkbox :Test passed
+2023-04-23 20:48:58,724 :INFO : tests.test_checkbox :Test passed
+2023-04-23 20:50:01,913 :INFO : tests.test_checkbox :Test passed
+2023-04-23 20:52:38,023 :INFO : tests.test_checkbox :Test passed
+2023-04-23 20:54:57,932 :INFO : tests.test_checkbox :Test passed
+2023-04-23 20:55:37,737 :INFO : tests.test_checkbox :Test passed
+2023-04-23 20:55:39,142 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-23 20:55:39,214 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-23 20:55:40,614 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-23 20:55:40,682 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 11:25:09,226 :INFO : tests.test_checkbox :Test passed
+2023-04-24 11:25:12,622 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 11:25:12,785 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 11:25:15,704 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 11:25:15,882 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 15:56:10,185 :INFO : tests.test_checkbox :Test passed
+2023-04-24 15:56:20,084 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 15:56:20,387 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 15:56:29,868 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 15:56:30,184 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 16:03:33,162 :INFO : tests.test_checkbox :Test passed
+2023-04-24 16:03:36,532 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:03:36,672 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 16:03:41,868 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:03:41,989 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 16:08:40,772 :INFO : tests.test_checkbox :Test passed
+2023-04-24 16:08:49,757 :INFO : tests.test_checkbox :Test passed
+2023-04-24 16:08:52,025 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:08:52,125 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 16:08:54,368 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:08:54,481 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 16:12:39,800 :INFO : tests.test_checkbox :Test passed
+2023-04-24 16:12:42,728 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:12:42,859 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 16:12:45,430 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:12:45,588 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 16:41:07,947 :INFO : tests.test_checkbox :Test passed
+2023-04-24 16:41:10,893 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:41:11,078 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 16:41:13,460 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:41:13,605 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 16:44:27,825 :INFO : tests.test_checkbox :Test passed
+2023-04-24 16:44:29,780 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:44:29,881 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 16:44:31,863 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:44:31,970 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 16:53:36,140 :INFO : tests.test_checkbox :Test passed
+2023-04-24 16:53:38,793 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:53:38,931 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 16:53:41,514 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:53:41,635 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 16:57:12,177 :INFO : tests.test_checkbox :Test passed
+2023-04-24 16:57:20,982 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:57:21,504 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 16:57:33,212 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 16:57:33,523 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 17:07:09,752 :INFO : tests.test_checkbox :Test passed
+2023-04-24 17:07:12,205 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:07:12,322 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 17:07:14,523 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:07:14,637 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 17:14:39,147 :INFO : tests.test_checkbox :Test passed
+2023-04-24 17:14:41,683 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:14:41,860 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 17:14:44,602 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:14:44,721 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 17:18:54,925 :INFO : tests.test_checkbox :Test passed
+2023-04-24 17:18:57,808 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:18:57,978 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 17:19:00,460 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:19:00,578 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 17:22:15,792 :INFO : tests.test_checkbox :Test passed
+2023-04-24 17:22:18,290 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:22:18,423 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 17:22:20,901 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:22:21,017 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 17:27:32,513 :INFO : tests.test_checkbox :Test passed
+2023-04-24 17:27:35,100 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:27:35,246 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 17:27:38,425 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:27:38,575 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 17:33:27,605 :INFO : tests.test_checkbox :Test passed
+2023-04-24 17:33:30,528 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:33:30,712 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 17:33:33,889 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:33:34,123 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 17:40:41,423 :INFO : tests.test_checkbox :Test passed
+2023-04-24 17:40:45,380 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:40:45,611 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 17:40:50,236 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:40:50,415 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 17:45:47,976 :INFO : tests.test_checkbox :Test passed
+2023-04-24 17:45:51,085 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:45:51,270 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 17:45:54,193 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:45:54,352 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 17:52:00,769 :INFO : tests.test_checkbox :Test passed
+2023-04-24 17:52:03,730 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:52:03,937 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 17:52:08,588 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 17:52:08,803 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 18:02:21,203 :INFO : tests.test_checkbox :Test passed
+2023-04-24 18:02:24,531 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 18:02:24,758 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 18:02:29,841 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 18:02:30,037 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 18:07:34,519 :INFO : tests.test_checkbox :Test passed
+2023-04-24 18:07:38,045 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 18:07:38,240 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 18:07:42,933 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 18:07:43,118 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 21:08:29,748 :INFO : tests.test_checkbox :Test passed
+2023-04-24 21:09:04,149 :INFO : tests.test_checkbox :Test passed
+2023-04-24 21:09:45,918 :INFO : tests.test_checkbox :Test passed
+2023-04-24 21:09:49,693 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 21:09:49,887 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 21:09:53,966 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 21:09:54,168 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 21:17:25,254 :INFO : tests.test_checkbox :Test passed
+2023-04-24 21:17:28,135 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 21:17:28,311 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 21:17:31,226 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 21:17:31,408 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful
+2023-04-24 21:24:47,743 :INFO : tests.test_checkbox :Test passed
+2023-04-24 21:24:51,173 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 21:24:51,369 :INFO : tests.test_checkbox :TestCheckbox1Checked Successful
+2023-04-24 21:24:55,326 :INFO : tests.test_checkbox :Checkbox setup Successful
+2023-04-24 21:24:56,046 :INFO : tests.test_checkbox :Test Checkbox2 Unchecked Successful

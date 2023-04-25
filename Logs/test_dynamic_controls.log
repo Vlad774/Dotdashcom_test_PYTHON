@@ -1,0 +1,78 @@
+2023-04-20 17:56:11,139 :INFO : tests.test_dynamic_controls :Logger initialized
+2023-04-20 17:56:11,139 :WARNING : tests.test_dynamic_controls :Something is warning
+2023-04-20 17:56:11,140 :ERROR : tests.test_dynamic_controls :Error happened
+2023-04-20 17:56:11,140 :CRITICAL : tests.test_dynamic_controls :Critical happened
+2023-04-20 21:11:32,530 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-20 21:12:02,899 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-21 01:27:15,939 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-21 01:31:37,053 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-21 01:32:53,228 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-21 11:08:25,522 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-21 11:10:52,440 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-23 18:44:00,178 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 18:45:00,307 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 18:46:39,899 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-23 19:29:11,680 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 19:30:56,749 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 19:34:13,503 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 19:50:51,112 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 19:52:03,639 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 19:53:20,977 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-23 20:39:23,507 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 20:40:05,260 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 20:47:40,313 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 20:48:58,738 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 20:50:01,926 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 20:52:38,037 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 20:54:57,945 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 20:55:37,750 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-23 20:57:21,639 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 11:25:09,291 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 11:34:51,145 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 15:56:10,217 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 15:57:58,115 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 16:03:33,192 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 16:04:57,604 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 16:08:40,802 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 16:08:49,787 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 16:09:45,362 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 16:12:39,833 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 16:13:36,773 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 16:41:07,983 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 16:42:07,091 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 16:44:27,861 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 16:45:18,003 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 16:53:36,176 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 16:54:31,851 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 16:57:12,220 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 16:59:02,198 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 17:07:09,789 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 17:08:07,954 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 17:14:39,182 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 17:16:18,453 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 17:18:54,974 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 17:19:52,026 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 17:22:15,827 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 17:23:48,920 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 17:27:32,550 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 17:28:32,599 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 17:33:27,673 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 17:35:41,918 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 17:40:41,464 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 17:43:06,939 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 17:45:48,029 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 17:46:53,247 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 17:52:00,820 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 17:54:11,367 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 18:02:21,245 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 18:03:41,800 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 18:07:34,579 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 18:08:47,633 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 21:08:29,806 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 21:09:04,189 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 21:09:45,974 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 21:10:51,651 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 21:17:25,317 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 21:18:31,184 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed
+2023-04-24 21:24:47,823 :INFO : tests.test_dynamic_controls :Test passed
+2023-04-24 21:25:59,866 :INFO : tests.test_dynamic_controls :Dynamic Controls Test Passed

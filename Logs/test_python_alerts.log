@@ -1,0 +1,4 @@
+2023-04-20 23:05:36,332 :INFO : tests.test_java_scripts_alerts :Test passed
+2023-04-20 23:05:43,270 :INFO : tests.test_java_scripts_alerts :TestJavaScriptAlerts test_js_alert Passed
+2023-04-20 23:05:55,185 :INFO : tests.test_java_scripts_alerts :TestJavaScriptAlerts test_js_confirm Passed
+2023-04-20 23:06:12,449 :INFO : tests.test_java_scripts_alerts :TestJavaScriptAlerts test_js_prompt Passed

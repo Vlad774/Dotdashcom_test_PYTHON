@@ -1,0 +1,125 @@
+2023-04-20 17:59:55,794 :INFO : tests.test_login_failure :Logger initialized
+2023-04-20 17:59:55,794 :WARNING : tests.test_login_failure :Something is warning
+2023-04-20 17:59:55,795 :ERROR : tests.test_login_failure :Error happened
+2023-04-20 17:59:55,795 :CRITICAL : tests.test_login_failure :Critical happened
+2023-04-20 18:00:04,597 :INFO : tests.test_login_failure :Login Failure Success
+2023-04-20 21:25:47,227 :INFO : tests.test_login_failure :Test passed
+2023-04-20 21:27:37,916 :INFO : tests.test_login_failure :Test passed
+2023-04-20 21:27:46,322 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-20 21:27:46,379 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-21 01:27:16,129 :INFO : tests.test_login_failure :Test passed
+2023-04-21 01:31:37,083 :INFO : tests.test_login_failure :Test passed
+2023-04-21 01:34:42,987 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-21 01:34:43,018 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-21 11:08:25,596 :INFO : tests.test_login_failure :Test passed
+2023-04-21 11:15:00,707 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-21 11:15:00,739 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-22 20:33:59,080 :INFO : tests.test_login_failure :Test passed
+2023-04-22 20:34:10,682 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-22 20:34:10,721 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-22 21:00:53,698 :INFO : tests.test_login_failure :Test passed
+2023-04-22 21:01:02,678 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-22 21:01:02,727 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-22 21:01:59,052 :INFO : tests.test_login_failure :Test passed
+2023-04-22 21:02:07,470 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-22 21:02:07,522 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-22 21:07:09,708 :INFO : tests.test_login_failure :Test passed
+2023-04-22 21:07:18,159 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-22 21:07:18,296 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-22 22:44:54,645 :INFO : tests.test_login_failure :Test passed
+2023-04-22 22:45:02,879 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-22 22:45:02,943 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-23 18:17:35,787 :INFO : tests.test_login_failure :Test passed
+2023-04-23 18:17:43,426 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-23 18:17:43,497 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-23 18:44:00,262 :INFO : tests.test_login_failure :Test passed
+2023-04-23 18:45:00,324 :INFO : tests.test_login_failure :Test passed
+2023-04-23 18:49:23,758 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-23 18:49:23,791 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-23 19:29:11,697 :INFO : tests.test_login_failure :Test passed
+2023-04-23 19:30:56,766 :INFO : tests.test_login_failure :Test passed
+2023-04-23 19:34:13,519 :INFO : tests.test_login_failure :Test passed
+2023-04-23 19:50:51,129 :INFO : tests.test_login_failure :Test passed
+2023-04-23 19:52:03,656 :INFO : tests.test_login_failure :Test passed
+2023-04-23 20:39:23,523 :INFO : tests.test_login_failure :Test passed
+2023-04-23 20:40:05,277 :INFO : tests.test_login_failure :Test passed
+2023-04-23 20:47:40,329 :INFO : tests.test_login_failure :Test passed
+2023-04-23 20:48:58,755 :INFO : tests.test_login_failure :Test passed
+2023-04-23 20:50:01,944 :INFO : tests.test_login_failure :Test passed
+2023-04-23 20:52:38,053 :INFO : tests.test_login_failure :Test passed
+2023-04-23 20:54:57,962 :INFO : tests.test_login_failure :Test passed
+2023-04-23 20:55:37,767 :INFO : tests.test_login_failure :Test passed
+2023-04-23 20:58:31,378 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-23 20:58:31,410 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 11:25:09,435 :INFO : tests.test_login_failure :Test passed
+2023-04-24 11:36:15,602 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 11:36:15,661 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 15:56:10,255 :INFO : tests.test_login_failure :Test passed
+2023-04-24 16:00:38,667 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 16:00:38,724 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 16:03:33,228 :INFO : tests.test_login_failure :Test passed
+2023-04-24 16:07:01,448 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 16:07:01,603 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 16:08:40,844 :INFO : tests.test_login_failure :Test passed
+2023-04-24 16:08:49,823 :INFO : tests.test_login_failure :Test passed
+2023-04-24 16:11:06,851 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 16:11:06,969 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 16:12:39,876 :INFO : tests.test_login_failure :Test passed
+2023-04-24 16:15:03,894 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 16:15:03,957 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 16:41:08,025 :INFO : tests.test_login_failure :Test passed
+2023-04-24 16:43:22,543 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 16:43:22,621 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 16:44:27,905 :INFO : tests.test_login_failure :Test passed
+2023-04-24 16:46:40,119 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 16:46:40,191 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 16:53:36,226 :INFO : tests.test_login_failure :Test passed
+2023-04-24 16:56:04,311 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 16:56:04,392 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 16:57:12,277 :INFO : tests.test_login_failure :Test passed
+2023-04-24 17:01:54,529 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 17:01:54,589 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 17:07:09,847 :INFO : tests.test_login_failure :Test passed
+2023-04-24 17:09:29,177 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 17:09:30,389 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 17:14:39,227 :INFO : tests.test_login_failure :Test passed
+2023-04-24 17:17:41,526 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 17:17:41,662 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 17:18:55,032 :INFO : tests.test_login_failure :Test passed
+2023-04-24 17:21:15,442 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 17:21:15,557 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 17:22:15,867 :INFO : tests.test_login_failure :Test passed
+2023-04-24 17:25:29,204 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 17:25:29,298 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 17:27:32,595 :INFO : tests.test_login_failure :Test passed
+2023-04-24 17:30:03,638 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 17:30:03,739 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 17:33:27,732 :INFO : tests.test_login_failure :Test passed
+2023-04-24 17:37:09,573 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 17:37:09,653 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 17:40:41,532 :INFO : tests.test_login_failure :Test passed
+2023-04-24 17:44:35,376 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 17:44:35,471 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 17:45:48,106 :INFO : tests.test_login_failure :Test passed
+2023-04-24 17:48:20,926 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 17:48:21,045 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 17:52:00,879 :INFO : tests.test_login_failure :Test passed
+2023-04-24 17:55:57,072 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 17:55:57,157 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 18:02:21,312 :INFO : tests.test_login_failure :Test passed
+2023-04-24 18:05:13,601 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 18:05:13,692 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 18:07:34,655 :INFO : tests.test_login_failure :Test passed
+2023-04-24 18:10:34,135 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 18:10:34,281 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 21:08:29,872 :INFO : tests.test_login_failure :Test passed
+2023-04-24 21:09:04,237 :INFO : tests.test_login_failure :Test passed
+2023-04-24 21:09:46,070 :INFO : tests.test_login_failure :Test passed
+2023-04-24 21:12:26,652 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 21:12:26,751 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 21:17:25,391 :INFO : tests.test_login_failure :Test passed
+2023-04-24 21:20:04,577 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 21:20:04,681 :INFO : tests.test_login_failure :Login Failure Test Passed
+2023-04-24 21:24:47,899 :INFO : tests.test_login_failure :Test passed
+2023-04-24 21:27:34,474 :INFO : tests.test_login_failure :Login Failure Setup Successful
+2023-04-24 21:27:34,587 :INFO : tests.test_login_failure :Login Failure Test Passed
